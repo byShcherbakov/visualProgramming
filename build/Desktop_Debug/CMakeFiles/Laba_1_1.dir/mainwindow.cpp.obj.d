@@ -408,11 +408,12 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtGui/qguiapplication_platform.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QFrame \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qframe.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qboxlayout.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QGridLayout \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qgridlayout.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qlayout.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qlayoutitem.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qgridlayout.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qboxlayout.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QHeaderView \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qheaderview.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractitemview.h \
@@ -442,6 +443,7 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QPushButton \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qpushbutton.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractbutton.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QSlider \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QStackedWidget \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qstackedwidget.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QTextBrowser \

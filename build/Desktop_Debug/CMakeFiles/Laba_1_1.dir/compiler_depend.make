@@ -1635,12 +1635,14 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtGui/qwindowdefs_win.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QApplication \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QFrame \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/QGridLayout \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QHeaderView \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QLabel \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QMenuBar \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QPushButton \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/QSlider \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QStackedWidget \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QTextBrowser \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QTreeWidget \
@@ -2516,8 +2518,6 @@ C:/msys64/ucrt64/include/c++/16.2.0/bits/basic_string.tcc:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow:
 
-C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in:
-
 C:/msys64/ucrt64/include/_timeval.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qalgorithms.h:
@@ -3314,6 +3314,8 @@ C:/msys64/ucrt64/include/qt6/QtCore/qcontainertools_impl.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qdatastream.h:
 
+C:/msys64/ucrt64/include/qt6/QtWidgets/QGridLayout:
+
 C:/msys64/ucrt64/include/qt6/QtWidgets/qtextedit.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qendian.h:
@@ -3391,6 +3393,8 @@ C:/msys64/ucrt64/include/qt6/QtCore/qsharedpointer_impl.h:
 C:/msys64/ucrt64/include/qt6/QtCore/qsize.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qspan.h:
+
+C:/msys64/ucrt64/include/qt6/QtWidgets/QSlider:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qstdlibdetection.h:
 
@@ -3723,6 +3727,8 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerSupport.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake:
+
+C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCInformation.cmake:
 
