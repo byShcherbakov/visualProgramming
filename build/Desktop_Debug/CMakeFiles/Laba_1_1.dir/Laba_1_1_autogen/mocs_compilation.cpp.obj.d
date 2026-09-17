@@ -396,5 +396,4 @@ CMakeFiles/Laba_1_1.dir/Laba_1_1_autogen/mocs_compilation.cpp.obj: \
  D:/visualProgramming/Laba_1_1/mainwindow.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qmainwindow.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qtabwidget.h \
- D:/visualProgramming/Laba_1_1/climatwindow.h
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qtabwidget.h

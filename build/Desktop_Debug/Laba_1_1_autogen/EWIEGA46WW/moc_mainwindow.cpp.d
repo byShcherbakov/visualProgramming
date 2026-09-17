@@ -356,7 +356,6 @@ D:/visualProgramming/Laba_1_1/build/Desktop_Debug/Laba_1_1_autogen/EWIEGA46WW/mo
   C:/msys64/ucrt64/include/qt6/QtGui/qwindowdefs.h \
   C:/msys64/ucrt64/include/qt6/QtGui/qwindowdefs_win.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/QWidget \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qmainwindow.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qsizepolicy.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtabwidget.h \
@@ -385,5 +384,4 @@ D:/visualProgramming/Laba_1_1/build/Desktop_Debug/Laba_1_1_autogen/EWIEGA46WW/mo
   C:/msys64/ucrt64/include/vadefs.h \
   C:/msys64/ucrt64/include/wchar.h \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h \
-  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdbool.h \
-  D:/visualProgramming/Laba_1_1/climatwindow.h
+  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stdbool.h

@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "climatwindow.h"
+//#include "climatwindow.h"
 
 
 class ClimatWindow;
@@ -20,7 +20,7 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow() override;
 protected:
-    void resizeEvent(QResizeEvent *event) override;
+    //void resizeEvent(QResizeEvent *event) override;
 
 private slots:
 

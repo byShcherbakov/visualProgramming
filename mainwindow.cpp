@@ -11,7 +11,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     // ОТКЛЮЧАЕМ авторастяжение, чтобы оно не ломало пропорции
-    ui->label_3->setScaledContents(false);
+    //ui->label_3->setScaledContents(false);
 
     // 1. Создаем виджет климата
     climatWin = new ClimatWindow(this);
@@ -35,7 +35,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-// Этот метод автоматически срабатывает при запуске и растягивании окна
+/* Этот метод автоматически срабатывает при запуске и растягивании окна
 void MainWindow::resizeEvent(QResizeEvent *event)
 {
     QMainWindow::resizeEvent(event);
@@ -62,3 +62,4 @@ void MainWindow::resizeEvent(QResizeEvent *event)
         ui->label_3->setPixmap(scaledPix);
     }
 }
+*/

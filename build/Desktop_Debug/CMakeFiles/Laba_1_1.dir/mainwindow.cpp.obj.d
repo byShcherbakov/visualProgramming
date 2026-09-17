@@ -390,8 +390,6 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtGui/qcursor.h \
  C:/msys64/ucrt64/include/qt6/QtGui/qbitmap.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qtabwidget.h \
- D:\visualProgramming\Laba_1_1\climatwindow.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/QWidget \
  D:/visualProgramming/Laba_1_1/build/Desktop_Debug/Laba_1_1_autogen/include/ui_mainwindow.h \
  C:/msys64/ucrt64/include/qt6/QtCore/QVariant \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QApplication \
@@ -408,10 +406,8 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtGui/qinputmethod.h \
  C:/msys64/ucrt64/include/qt6/QtCore/qlocale.h \
  C:/msys64/ucrt64/include/qt6/QtGui/qguiapplication_platform.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/QCalendarWidget \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qcalendarwidget.h \
- C:/msys64/ucrt64/include/qt6/QtCore/qdatetime.h \
- C:/msys64/ucrt64/include/qt6/QtCore/qcalendar.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QFrame \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qframe.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qboxlayout.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qlayout.h \
@@ -421,7 +417,6 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qheaderview.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractitemview.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractscrollarea.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qframe.h \
  C:/msys64/ucrt64/include/qt6/QtCore/qabstractitemmodel.h \
  C:/msys64/ucrt64/include/qt6/QtCore/qitemselectionmodel.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractitemdelegate.h \
@@ -440,15 +435,6 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtCore/qiodevice.h \
  C:/msys64/ucrt64/include/qt6/QtGui/qtextdocument.h \
  C:/msys64/ucrt64/include/qt6/QtCore/qurl.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/QLineEdit \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qlineedit.h \
- C:/msys64/ucrt64/include/qt6/QtGui/qtextcursor.h \
- C:/msys64/ucrt64/include/qt6/QtGui/qtextformat.h \
- C:/msys64/ucrt64/include/qt6/QtGui/qpen.h \
- C:/msys64/ucrt64/include/qt6/QtGui/qtextoption.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/QListWidget \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qlistwidget.h \
- C:/msys64/ucrt64/include/qt6/QtWidgets/qlistview.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QMenuBar \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qmenubar.h \
@@ -458,10 +444,19 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractbutton.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QStackedWidget \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qstackedwidget.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QTextBrowser \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qtextbrowser.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/qtextedit.h \
+ C:/msys64/ucrt64/include/qt6/QtGui/qtextoption.h \
+ C:/msys64/ucrt64/include/qt6/QtGui/qtextcursor.h \
+ C:/msys64/ucrt64/include/qt6/QtGui/qtextformat.h \
+ C:/msys64/ucrt64/include/qt6/QtGui/qpen.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QTreeWidget \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qtreewidget.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qtreeview.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/qtreewidgetitemiterator.h \
+ C:/msys64/ucrt64/include/qt6/QtWidgets/QWidget \
+ D:\visualProgramming\Laba_1_1\climatwindow.h \
  C:/msys64/ucrt64/include/qt6/QtWidgets/QWidget \
  C:/msys64/ucrt64/include/qt6/QtGui/QResizeEvent \
  C:/msys64/ucrt64/include/qt6/QtGui/qevent.h \

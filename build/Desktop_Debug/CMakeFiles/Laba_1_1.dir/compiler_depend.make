@@ -1472,7 +1472,6 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtCore/qbytearrayalgorithms.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qbytearraylist.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qbytearrayview.h \
-  C:/msys64/ucrt64/include/qt6/QtCore/qcalendar.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qchar.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qcheckedint_impl.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qcompare.h \
@@ -1490,7 +1489,6 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtCore/qcoreevent.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qdarwinhelpers.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qdatastream.h \
-  C:/msys64/ucrt64/include/qt6/QtCore/qdatetime.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qdeadlinetimer.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qdebug.h \
   C:/msys64/ucrt64/include/qt6/QtCore/qendian.h \
@@ -1636,16 +1634,15 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtGui/qwindowdefs.h \
   C:/msys64/ucrt64/include/qt6/QtGui/qwindowdefs_win.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QApplication \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/QCalendarWidget \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/QFrame \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QHeaderView \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QLabel \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/QLineEdit \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/QListWidget \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QMenuBar \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QPushButton \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QStackedWidget \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/QTextBrowser \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QTreeWidget \
   C:/msys64/ucrt64/include/qt6/QtWidgets/QWidget \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractbutton.h \
@@ -1656,16 +1653,12 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractspinbox.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qapplication.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qboxlayout.h \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/qcalendarwidget.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qframe.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qgridlayout.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qheaderview.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qlabel.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qlayout.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qlayoutitem.h \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/qlineedit.h \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/qlistview.h \
-  C:/msys64/ucrt64/include/qt6/QtWidgets/qlistwidget.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qmainwindow.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qmenu.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qmenubar.h \
@@ -1678,6 +1671,8 @@ CMakeFiles/Laba_1_1.dir/mainwindow.cpp.obj: D:/visualProgramming/Laba_1_1/mainwi
   C:/msys64/ucrt64/include/qt6/QtWidgets/qstyleoption.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtabbar.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtabwidget.h \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/qtextbrowser.h \
+  C:/msys64/ucrt64/include/qt6/QtWidgets/qtextedit.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtreeview.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtreewidget.h \
   C:/msys64/ucrt64/include/qt6/QtWidgets/qtreewidgetitemiterator.h \
@@ -2521,6 +2516,8 @@ C:/msys64/ucrt64/include/c++/16.2.0/bits/basic_string.tcc:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QMainWindow:
 
+C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in:
+
 C:/msys64/ucrt64/include/_timeval.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qalgorithms.h:
@@ -2540,6 +2537,8 @@ C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
 C:/msys64/ucrt64/include/c++/16.2.0/algorithm:
 
 C:/msys64/ucrt64/include/c++/16.2.0/array:
+
+C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitLinkInfo.cmake:
 
 C:/msys64/ucrt64/include/c++/16.2.0/bits/concept_check.h:
 
@@ -2729,6 +2728,8 @@ C:/msys64/ucrt64/include/c++/16.2.0/bits/shared_ptr_atomic.h:
 
 C:/msys64/ucrt64/include/c++/16.2.0/bits/shared_ptr_base.h:
 
+C:/msys64/ucrt64/include/qt6/QtWidgets/qtextbrowser.h:
+
 C:/msys64/ucrt64/include/c++/16.2.0/bits/specfun.h:
 
 C:/msys64/ucrt64/include/c++/16.2.0/bits/std_abs.h:
@@ -2873,9 +2874,11 @@ C:/msys64/ucrt64/include/pthread_unistd.h:
 
 C:/msys64/ucrt64/include/c++/16.2.0/bits/uses_allocator.h:
 
-C:/msys64/ucrt64/include/c++/16.2.0/cstdint:
-
 C:/msys64/ucrt64/include/c++/16.2.0/bits/uses_allocator_args.h:
+
+C:/msys64/ucrt64/include/qt6/QtWidgets/QTextBrowser:
+
+C:/msys64/ucrt64/include/c++/16.2.0/cstdint:
 
 C:/msys64/ucrt64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake:
 
@@ -3193,8 +3196,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/IBMCPP-CXX-DetermineVer
 
 C:/msys64/ucrt64/include/pthread_signal.h:
 
-C:/msys64/ucrt64/include/qt6/QtWidgets/qlistview.h:
-
 C:/msys64/ucrt64/include/pthread_time.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/q17memory.h:
@@ -3313,6 +3314,8 @@ C:/msys64/ucrt64/include/qt6/QtCore/qcontainertools_impl.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qdatastream.h:
 
+C:/msys64/ucrt64/include/qt6/QtWidgets/qtextedit.h:
+
 C:/msys64/ucrt64/include/qt6/QtCore/qendian.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qexceptionhandling.h:
@@ -3350,8 +3353,6 @@ C:/msys64/ucrt64/include/qt6/QtCore/qiterable.h:
 C:/msys64/ucrt64/include/qt6/QtCore/qiterator.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qlatin1stringview.h:
-
-C:/msys64/ucrt64/include/qt6/QtCore/qdatetime.h:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qmalloc.h:
 
@@ -3415,6 +3416,8 @@ C:/msys64/ucrt64/include/qt6/QtCore/qsystemdetection.h:
 
 C:/msys64/ucrt64/include/qt6/QtGui/qeventpoint.h:
 
+C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseLibraryArchitecture.cmake:
+
 C:/msys64/ucrt64/include/qt6/QtCore/qtclasshelpermacros.h:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake:
@@ -3438,8 +3441,6 @@ C:/msys64/ucrt64/include/qt6/QtCore/qtformat_impl.h:
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeSystem.cmake.in:
 
 C:/msys64/ucrt64/include/qt6/QtCore/qtmocconstants.h:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/QListWidget:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake:
 
@@ -3647,10 +3648,6 @@ C:/msys64/ucrt64/include/qt6/QtCore/QObject:
 
 C:/msys64/ucrt64/include/qt6/QtCore/QSizeF:
 
-C:/msys64/ucrt64/include/qt6/QtCore/qcalendar.h:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractbutton.h:
-
 C:/msys64/ucrt64/include/qt6/QtGui/QTransform:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/qpushbutton.h:
@@ -3665,7 +3662,7 @@ C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake:
 
 C:/msys64/ucrt64/include/qt6/QtGui/qtextformat.h:
 
-C:/msys64/ucrt64/include/qt6/QtWidgets/QCalendarWidget:
+C:/msys64/ucrt64/include/qt6/QtWidgets/QFrame:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QHBoxLayout:
 
@@ -3674,10 +3671,6 @@ C:/msys64/ucrt64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessA
 C:/msys64/ucrt64/include/qt6/QtWidgets/QHeaderView:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QLabel:
-
-C:/msys64/ucrt64/lib/cmake/Qt6/windows/app.exe.manifest.in:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/QLineEdit:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QMenuBar:
 
@@ -3689,6 +3682,8 @@ C:/msys64/ucrt64/include/qt6/QtWidgets/QStackedWidget:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/QTreeWidget:
 
+C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractbutton.h:
+
 C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractscrollarea.h:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:
@@ -3696,16 +3691,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake:
 C:/msys64/ucrt64/include/qt6/QtWidgets/qabstractspinbox.h:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/qboxlayout.h:
-
-C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/qcalendarwidget.h:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/qlineedit.h:
-
-C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake:
-
-C:/msys64/ucrt64/include/qt6/QtWidgets/qlistwidget.h:
 
 C:/msys64/ucrt64/include/qt6/QtWidgets/qstyle.h:
 
@@ -3723,9 +3708,9 @@ C:/msys64/ucrt64/include/qt6/QtWidgets/qtreewidgetitemiterator.h:
 
 C:/Program\ Files/CMake/bin/cmake.exe:
 
-C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitIncludeInfo.cmake:
-
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp:
+
+C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitIncludeInfo.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake:
 
@@ -3738,12 +3723,6 @@ C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake:
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerSupport.cmake:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitLinkInfo.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseLibraryArchitecture.cmake:
-
-C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCInformation.cmake:
 
@@ -3943,6 +3922,8 @@ C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicTestHelpers.cmake:
 
 C:/msys64/ucrt64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake:
 
+C:/msys64/ucrt64/lib/cmake/Qt6/windows/app.exe.manifest.in:
+
 C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
@@ -4009,6 +3990,8 @@ C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargetsPrecheck.cm
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QMngPluginTargets-relwithdebinfo.cmake:
 
+C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QMngPluginTargets.cmake:
+
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
@@ -4056,6 +4039,8 @@ C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake:
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-relwithdebinfo.cmake:
+
+C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake:
 
 C:/msys64/ucrt64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargetsPrecheck.cmake:
 
