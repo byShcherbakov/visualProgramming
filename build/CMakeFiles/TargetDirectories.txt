@@ -1,0 +1,9 @@
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/Laba_1_1.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/edit_cache.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/rebuild_cache.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/list_install_components.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/install.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/install/local.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/install/strip.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/Laba_1_1_autogen_timestamp_deps.dir
+/Users/shcherbakov/TelegaBot2.0/visualProgramming/build/CMakeFiles/Laba_1_1_autogen.dir
